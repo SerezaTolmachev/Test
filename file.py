@@ -23,4 +23,8 @@ class Cat:
 cat = Cat('Boris', 'black', 7)
 cat.play()
 cat.sleep()
+cat2 = Cat('Vasya', 'white', 13)
+cat2.play()
+cat2.sleep()
+
 
